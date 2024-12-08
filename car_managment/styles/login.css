@@ -1,0 +1,37 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.form_deg{
+    padding-top: 200px;
+}
+.label_deg{
+    display: inline-block;
+    color: rgb(203, 239, 157);
+    width: 100px;
+    text-align: right;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.login_form{
+    background-color: rgb(24, 187, 179);
+    width: 400px;
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+.title_deg{
+    background-color: skyblue;
+    color: white;
+    text-align: center;
+    width: 400px;
+    font-weight: bold;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 20px;
+}
+.body_deg{
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
